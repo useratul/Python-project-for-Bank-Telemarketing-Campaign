@@ -41,7 +41,7 @@ improve the positive response rate.
 > + Other -  This represents that during the previous call, the customer has not given any definite answer
 - response  :	This column represents whether the customer has opened the term deposit account or not
 
-### Expected Outcomes / Suggestions:
+## Expected Outcomes / Suggestions:
 Based on the analysis, proposing areas where the bank can enhance its positive response rate.
 
 - Focus on customers aged 18-25, as this group is more likely to subscribe.
